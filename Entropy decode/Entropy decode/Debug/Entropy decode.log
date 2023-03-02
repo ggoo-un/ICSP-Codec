@@ -1,0 +1,30 @@
+﻿  소스.c
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(43,26): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(55,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(68,26): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(71,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(88,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(104,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(123,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(137,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(154,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(172,30): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(189,31): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(205,32): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(221,33): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(269,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(285,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(303,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(317,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(334,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(350,28): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(366,29): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(383,30): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(399,31): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(432,25): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(444,25): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(456,25): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(468,25): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(480,25): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+H:\코덱\코드_PROJECT_확인\Entropy decode\Entropy decode\소스.c(498,26): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Entropy decode.vcxproj -> H:\코덱\코드_PROJECT_확인\Entropy decode\Debug\Entropy decode.exe

@@ -1,0 +1,50 @@
+9.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 49.46%     
+33.akiyo, DC_QP: 8, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 48.29%                               
+57.akiyo, DC_QP: 16, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 47.91%                              
+21.akiyo, DC_QP: 1, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 20.92%                              
+45.akiyo, DC_QP: 8, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 19.76%                              
+69.akiyo, DC_QP: 16, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 19.37%                             
+9.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 53.93%                             
+33.football, DC_QP: 8, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 52.76%                            
+57.football, DC_QP: 16, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 52.37%                           
+21.football, DC_QP: 1, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 27.06%                           
+45.football, DC_QP: 8, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 25.89%                           
+69.football, DC_QP: 16, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 25.50%                          
+9.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 59.01%                              
+33.foreman, DC_QP: 8, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 57.84%                             
+57.foreman, DC_QP: 16, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 57.45%                            
+21.foreman, DC_QP: 1, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 26.78%                            
+45.foreman, DC_QP: 8, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 25.61%                            
+69.foreman, DC_QP: 16, AC_QP: 16, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 0, compressibility: 25.23%                           
+
+1.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 0, intra prediction enable: 0, compressibility: 47.98%                                
+5.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 0, intra prediction enable: 0, compressibility: 48.21%                                
+1.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 0, intra prediction enable: 0, compressibility: 53.19%                             
+5.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 0, intra prediction enable: 0, compressibility: 50.88%                             
+1.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 0, intra prediction enable: 0, compressibility: 57.83%                              
+5.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 0, intra prediction enable: 0, compressibility: 56.66%                              
+
+10.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 1, compressibility: 48.47%                               
+12.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 10, intra prediction enable: 1, compressibility: 23.65%                              
+10.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 1, compressibility: 52.85%                            
+12.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 10, intra prediction enable: 1, compressibility: 53.88%                           
+10.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 0, intra prediction enable: 1, compressibility: 58.08%                             
+12.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 10, intra prediction enable: 1, compressibility: 52.88%                            
+
+11.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 10, intra prediction enable: 0, compressibility: 23.74%                              
+3.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 10, intra prediction enable: 0, compressibility: 23.60%                               
+7.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 10, intra prediction enable: 0, compressibility: 23.62%                               
+8.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 10, intra prediction enable: 1, compressibility: 23.77%                               
+11.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 10, intra prediction enable: 0, compressibility: 53.99%                           
+3.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 10, intra prediction enable: 0, compressibility: 53.90%                            
+7.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 10, intra prediction enable: 0, compressibility: 53.70%                            
+8.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 10, intra prediction enable: 1, compressibility: 53.96%                            
+11.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 6, Intra period: 10, intra prediction enable: 0, compressibility: 52.96%                            
+3.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 10, intra prediction enable: 0, compressibility: 52.85%                             
+7.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 10, intra prediction enable: 0, compressibility: 52.74%                             
+8.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 2, Intra period: 10, intra prediction enable: 1, compressibility: 52.95%                             
+
+
+4.akiyo, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 10, intra prediction enable: 1, compressibility: 23.80%                               
+4.football, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 10, intra prediction enable: 1, compressibility: 54.09%                            
+4.foreman, DC_QP: 1, AC_QP: 1, Pixel DPCM mode: 0, Intra period: 10, intra prediction enable: 1, compressibility: 53.06%                             

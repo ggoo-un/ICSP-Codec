@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LocalDebuggerCommandArguments>300 1 1 6 0 0 C:/Users/GUN/Desktop/코덱/신입생코덱/CIF(352x288)/akiyo_cif(352X288)_300f.yuv 9.akiyo</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>.\Release</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LocalDebuggerCommandArguments>300 1 1 0 0 0 C:/Users/GUN/Desktop/코덱/신입생코덱/CIF(352x288)/akiyo_cif(352X288)_300f.yuv C:/Users/GUN/Desktop/코덱/신입생코덱/result/1_re_akiyo.yuv 1.akiyo</LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>.\Release</LocalDebuggerWorkingDirectory>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+  </PropertyGroup>
+</Project>

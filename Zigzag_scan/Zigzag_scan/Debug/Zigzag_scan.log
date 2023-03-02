@@ -1,0 +1,19 @@
+﻿  zigzag.c
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(105,30): warning C4133: '함수': 'unsigned char [101376]'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(50,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(33,8): warning C4101: 'fp1' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(52,6): warning C4101: 'sad_min' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(35,8): warning C4101: 'fp3' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(27,10): warning C4101: 'err1' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(50,26): warning C4101: 'a_val' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(50,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(28,10): warning C4101: 'err2' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(29,10): warning C4101: 'err3' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(50,40): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(50,12): warning C4101: 'a_max' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(50,43): warning C4101: 'd' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(50,33): warning C4101: 'b_val' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(34,8): warning C4101: 'fp2' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(50,19): warning C4101: 'b_max' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Zigzag_scan\Zigzag_scan\zigzag.c(296,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Zigzag_scan.vcxproj -> C:\Users\GUN\source\repos\Zigzag_scan\Debug\Zigzag_scan.exe

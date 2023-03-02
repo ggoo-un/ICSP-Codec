@@ -1,0 +1,27 @@
+﻿  Encode.c
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(222,28): warning C4133: '=': 'int *'과(와) 'unsigned char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(758,6): warning C4101: 're_intra1' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(757,6): warning C4101: 're_intra0' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(759,6): warning C4101: 're_intra2' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(840,6): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(839,9): warning C4101: 'mean_double' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(939,6): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(938,9): warning C4101: 'mean_double' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1111,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1111,26): warning C4101: 'a_val' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1111,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1111,12): warning C4101: 'a_max' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1111,33): warning C4101: 'b_val' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1111,19): warning C4101: 'b_max' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1204,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1297,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1472,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1613,27): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1521,12): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1521,15): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1522,12): warning C4101: 'y' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1522,9): warning C4101: 'x' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1521,9): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1521,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\GUN\source\repos\Encode\Encode\Encode.c(1522,6): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  Encode.vcxproj -> C:\Users\GUN\source\repos\Encode\Debug\Encode.exe

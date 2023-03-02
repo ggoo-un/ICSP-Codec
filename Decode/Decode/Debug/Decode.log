@@ -1,0 +1,14 @@
+﻿  Decode.c
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(364,6): warning C4101: 're_intra1' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(363,6): warning C4101: 're_intra0' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(365,6): warning C4101: 're_intra2' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(445,6): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(444,9): warning C4101: 'mean_double' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(545,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(545,26): warning C4101: 'a_val' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(545,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(545,12): warning C4101: 'a_max' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(545,33): warning C4101: 'b_val' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(545,19): warning C4101: 'b_max' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Decode\Decode.c(636,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Decode.vcxproj -> C:\Users\a\Documents\Connect_Git\ICSP_Codec\Decode\Debug\Decode.exe

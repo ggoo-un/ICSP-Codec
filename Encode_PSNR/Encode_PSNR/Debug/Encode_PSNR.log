@@ -1,0 +1,24 @@
+﻿  Encode_PSNR.c
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(225,28): warning C4133: '=': 'int *'과(와) 'unsigned char *' 사이의 형식이 호환되지 않습니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(628,14): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(632,16): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(634,8): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(635,8): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(211,7): warning C4101: 'index' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(825,6): warning C4101: 're_intra1' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(824,6): warning C4101: 're_intra0' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(826,6): warning C4101: 're_intra2' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(907,6): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(906,9): warning C4101: 'mean_double' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1006,6): warning C4101: 'sum' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1005,9): warning C4101: 'mean_double' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1179,6): warning C4101: 'a' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1179,26): warning C4101: 'a_val' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1179,9): warning C4101: 'b' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1179,12): warning C4101: 'a_max' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1179,33): warning C4101: 'b_val' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1179,19): warning C4101: 'b_max' :참조되지 않은 지역 변수입니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1281,45): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1283,41): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Encode_PSNR\Encode_PSNR.c(1375,42): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Encode_PSNR.vcxproj -> C:\Users\a\Documents\Connect_Git\ICSP_Codec\Encode_PSNR\Debug\Encode_PSNR.exe
